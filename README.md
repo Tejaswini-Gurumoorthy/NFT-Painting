@@ -1,14 +1,3 @@
-# Sample Hardhat Project
+# NFT CREATION
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
-#NFT-Painting
+This is a simple project that I tried which minted one of my paintings as a Non-Fungible Token (NFT) using the IPFS Protocol and Pinata services. 
