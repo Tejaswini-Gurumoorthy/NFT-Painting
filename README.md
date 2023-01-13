@@ -1,6 +1,6 @@
 # NFT CREATION
 
-This is a simple project that I tried which minted one of my paintings as a Non-Fungible Token (NFT) using the IPFS Protocol and Pinata services. 
+This is a simple project that mints one of my paintings as a Non-Fungible Token (NFT) using the IPFS Protocol and Pinata services. 
 
 ## Tech Stack Used:
 1. Hardhat as the development environment
